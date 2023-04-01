@@ -1,5 +1,10 @@
 import React from "react"
+
 import Logo from "../image/logo.png"
+import iconLike from "../image/icons/like.svg"
+import iconBuy from "../image/icons/buy.svg"
+import iconProfile from "../image/icons/profile.svg"
+
 import styles from "../styles/header.module.scss"
 
 function Header() {
@@ -14,11 +19,17 @@ function Header() {
                 <input className={styles.header__search_bar__search}/>
                 <button className={styles.header__search_bar__search_button}/>
             </div>
-            <div className={styles.header__icon_menu}>
-                <button className={styles.header__icon_menu__like}/> 
-                <button className={styles.header__icon_menu__buy}/> 
-                <button className={styles.header__icon_menu__profile}/> 
-            </div>
+            <ul className={styles.header__menu_icons}>
+                <li className={styles.header__menu_icon}>
+                    <img className={styles.header__menu_icon__img} src={iconLike} alt="Избранное"/>
+                </li>
+                <li className={styles.header__menu_icon}>
+                    <img className={styles.header__menu_icon__img} src={iconBuy} alt="Корзина"/>
+                </li>
+                <li className={styles.header__menu_icon}>
+                    <img className={styles.header__menu_icon__img} src={iconProfile} alt="Профиль"/>
+                </li>
+            </ul>
         </div>
     </header>
   );
