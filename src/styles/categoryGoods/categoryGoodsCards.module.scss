@@ -1,6 +1,6 @@
 .cards__container {
     width: 1141px;
-    margin: 34px auto 0 auto;
+    margin: 0 auto;
     padding: 0;
 }
 
@@ -11,8 +11,8 @@
 
     display: grid;
     grid-template-columns: repeat(3, 334px);
-    grid-template-rows: repeat(3, 293px);
+    grid-template-rows: repeat(2, 293px);
 
-    column-gap: 54px;
+    column-gap: 67px;
     row-gap: 17px;
 }

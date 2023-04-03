@@ -3,7 +3,6 @@ import React from "react"
 import styles from "../../styles/categoryGoods/categoryGoodsCard.module.scss"
 
 function CategoryGoodsCard({title, link}) {
-    console.log(title)
   return (
     <section className={styles.card}>
         <img className={styles.card__img} src={link} alt={title}/>

@@ -1,4 +1,5 @@
-// import { useState } from "react"
+import React from "react"
+import shortid  from "shortid"
 
 import { categoryCards } from "../../utils/categoryCards"
 
@@ -11,7 +12,7 @@ function CategoryGoodsCards() {
         <section className={styles.cards__container}>
             <ul className={styles.cards}>
                 {categoryCards.map((item) => {
-                    return <li className="card"><CategoryGoodsCard title={item.title} link={item.src} key={item.key}/></li>
+                    return <li className="card" key={shortid.generate()}><CategoryGoodsCard title={item.title} link={item.src} /></li>
                 }
                 )}
             </ul>
