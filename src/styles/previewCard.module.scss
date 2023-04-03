@@ -136,8 +136,11 @@
             background-size: 25px;
             background-position: center;
 
+            transition: .5s;
+
             &:hover {
                 cursor: pointer;
+                transform: scale(1.1);
             }
 
         }
