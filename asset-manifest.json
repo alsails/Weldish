@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Weldish/static/css/main.bffb3b32.css",
+    "main.js": "/Weldish/static/js/main.728bc993.js",
+    "static/js/787.9021b110.chunk.js": "/Weldish/static/js/787.9021b110.chunk.js",
+    "static/media/1.png": "/Weldish/static/media/1.90d623f48f0ae06835e6.png",
+    "static/media/6.png": "/Weldish/static/media/6.d12132698c721a6cc1e6.png",
+    "static/media/4.png": "/Weldish/static/media/4.771f36b54482906083ac.png",
+    "static/media/2.png": "/Weldish/static/media/2.d0963bc9d75976ae0020.png",
+    "static/media/5.png": "/Weldish/static/media/5.c9bcde62d7c1a5f761d0.png",
+    "static/media/3.png": "/Weldish/static/media/3.d61026ce0f99ae4ed4df.png",
+    "static/media/Roboto-Regular.ttf": "/Weldish/static/media/Roboto-Regular.160d7a6ac26376e5e977.ttf",
+    "static/media/Roboto-Bold.ttf": "/Weldish/static/media/Roboto-Bold.35eab922fdbe4b5324d4.ttf",
+    "static/media/Roboto-Light.ttf": "/Weldish/static/media/Roboto-Light.67102731a93fd827b382.ttf",
+    "static/media/Boch.png": "/Weldish/static/media/Boch.d97b80e5d55778f177c8.png",
+    "static/media/finish.png": "/Weldish/static/media/finish.eaab6d9b421f116606bb.png",
+    "static/media/Biomed.png": "/Weldish/static/media/Biomed.6b70fa4d50ee58d0f91c.png",
+    "static/media/Kelli.png": "/Weldish/static/media/Kelli.65ac55f72ec7915aba4e.png",
+    "static/media/MrProper.png": "/Weldish/static/media/MrProper.86ab6a29d1cf693e993d.png",
+    "static/media/Bork.png": "/Weldish/static/media/Bork.d9a44ae5aef61a3ece8d.png",
+    "static/media/like.svg": "/Weldish/static/media/like.8d8357a62747374071a28747d846ea56.svg",
+    "static/media/profile.svg": "/Weldish/static/media/profile.6027b94f9c6a5777820279ab16f67c98.svg",
+    "static/media/buy.svg": "/Weldish/static/media/buy.c4f17509a57f8ff8dcb271ba8f5a7685.svg",
+    "static/media/search.svg": "/Weldish/static/media/search.586e03d875a46e0b65d2.svg",
+    "index.html": "/Weldish/index.html",
+    "static/media/arrow.svg": "/Weldish/static/media/arrow.828c0ab39d22be9670372e553c312b4d.svg",
+    "static/media/arrow_slider.svg": "/Weldish/static/media/arrow_slider.828c0ab39d22be967037.svg",
+    "main.bffb3b32.css.map": "/Weldish/static/css/main.bffb3b32.css.map",
+    "main.728bc993.js.map": "/Weldish/static/js/main.728bc993.js.map",
+    "787.9021b110.chunk.js.map": "/Weldish/static/js/787.9021b110.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bffb3b32.css",
+    "static/js/main.728bc993.js"
+  ]
+}
